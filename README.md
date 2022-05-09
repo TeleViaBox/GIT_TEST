@@ -1,3 +1,4 @@
 # GIT_TEST
-b
+a
+GIT
 c
